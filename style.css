@@ -1,0 +1,41 @@
+body {
+  background-color: #343452;
+}
+
+.player {
+  background-color: #3ea13e;
+}
+
+.machine {
+  background-color: #d83838;
+}
+
+.selectMobile {
+  height: 80px;
+  width: 33.33%;
+}
+
+.playMobile {
+  width: 100%;
+  height: 200px;
+}
+
+.machMobile {
+  width: 100%;
+  height: 280px;
+}
+
+.x {
+  text-align: center;
+  color: white;
+}
+
+.playerText {
+  color: #3ea13e;
+  text-align: left;
+}
+
+.machineText {
+  color: #d83838;
+  text-align: right;
+}
