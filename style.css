@@ -10,19 +10,26 @@ body {
   background-color: #d83838;
 }
 
-.selectMobile {
+.select {
   height: 80px;
   width: 33.33%;
+  background-color: #4cc94c;
+  border: 1px solid #343452;
 }
 
-.playMobile {
+.play {
   width: 100%;
-  height: 200px;
+  height: 160px;
+  background-color: #4cc94c;
+  border: 1px solid #343452;
+
 }
 
-.machMobile {
+.mach {
   width: 100%;
-  height: 280px;
+  height: 240px;
+  background-color: #ff5858;
+  border: 1px solid #343452;
 }
 
 .x {
@@ -31,11 +38,11 @@ body {
 }
 
 .playerText {
-  color: #3ea13e;
+  color: #5ce25c;
   text-align: left;
 }
 
 .machineText {
-  color: #d83838;
+  color: #ff5858;
   text-align: right;
 }
